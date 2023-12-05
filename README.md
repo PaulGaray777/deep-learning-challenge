@@ -1,6 +1,6 @@
 # deep-learning-challenge
 ## Overview:
-Alphabet Soup organization is looking forward to having a tool that helps them select the applicants for funding with the best chance of success in their ventures. To give a solution, the proposal is a machine learning, specifically a neural network model( which is inspired by the structure and functioning of the human brain). Basically, this is an artificial intelligence algorithm that can learn from data and make predictions for the input data. The given dataset is a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years.
+Alphabet Soup organization is looking forward to having a tool that helps them select the applicants for funding with the best chance of success in their ventures. To give a solution, the proposal is a machine learning, specifically a neural network model ( which is inspired by the structure and functioning of the human brain). Basically, this is an artificial intelligence algorithm that can learn from data and make predictions for the input data. The given dataset is a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years.
 
 ## Data Preprocessing:
 Target variable: The target variable of this project was “IS_SUCCESSFUL". This column dictates if funding application was successful or not.
